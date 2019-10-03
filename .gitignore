@@ -1,5 +1,6 @@
 ###> phpstorm ###
 .idea
+/.env.test
 ###< phpstorm ###
 
 ###> bin files ###
